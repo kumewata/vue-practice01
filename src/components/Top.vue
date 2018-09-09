@@ -86,6 +86,8 @@
 <script>
 export default {
   name: 'Top',
+  title: 'top',
+  description: 'くめ（kume）のVue練習サイト',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
